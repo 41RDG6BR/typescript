@@ -1,9 +1,9 @@
-//Tipos básicos (aquiocorre inferêcia de tipos)
+//Tipos básicos (aqui ocorre inferência de tipos)
 let nome: string = 'Rodrigo';
 let idade: number = 34;
 let adulto: boolean = true;
 let simbolo: symbol = Symbol('qualquer-symbol');
-// let big: bigint = 10;
+// let big: bigint = 10n;
 
 //Arrays
 let arrayDeNumeros: Array<number> = [1, 2, 3];

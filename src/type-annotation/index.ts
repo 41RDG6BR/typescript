@@ -3,8 +3,7 @@ let nome: string = 'Rodrigo';
 let idade: number = 34;
 let adulto: boolean = true;
 let simbolo: symbol = Symbol('qualquer-symbol');
-let big: bigint = 10n;
-
+// let big: bigint = 10;
 
 //Arrays
 let arrayDeNumeros: Array<number> = [1, 2, 3];
